@@ -13,6 +13,3 @@ A modern, animated portfolio website showcasing my work as a Full Stack Develope
 
 [View Portfolio](https://muneeb10997.github.io/portfolio/)
 
-## 📝 License
-
-© 2025 Muneeb Ur Rehman. All rights reserved.
